@@ -17,7 +17,7 @@ public class AppTest extends TestData {
 	public void mySetup() {
 		driver.manage().window().maximize();
 		
-		driver.get("http://127.0.0.1:5500/index.html#media-section");
+		driver.get("C:\\Users\\Asus\\Desktop\\MavenProjectSeleneiumJava\\index.html");
 	}
 	
 	@Test(enabled = false)
